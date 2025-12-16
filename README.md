@@ -77,14 +77,6 @@ This will start the Streamlit dashboard on `localhost:8501`.
 - Add more technical indicators
 - Support for more cryptocurrency exchanges
 
-## 🤖 ChatGPT Usage
-
-This project was developed with the help of ChatGPT as a coding assistant to:
-- Understand requirements and architecture
-- Implement individual components
-- Debug integration issues
-- Optimize code for readability and performance
-
 The implementation follows a modular approach with clear separation of concerns, making it easy to understand and extend.
 
 ## 📁 Project Structure
